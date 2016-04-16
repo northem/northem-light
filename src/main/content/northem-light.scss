@@ -19,6 +19,7 @@ This is a light and more color-intensive variation of the "Northem" color palett
 
 [Index]
   (1) HEX
+  (2) RGB
 
 [Variations]
   - "Northem"      (https://github.com/arcticicestudio/northem)
@@ -148,3 +149,25 @@ $orange:       #F19054;
 $lime:         #C5C961;
 $purple:       #BA8EC4;
 /* +------------------------------------------------------------------------[1]-+ */
+
+/* +----------------------------------------------------------------------------+
+   + RGB                                                                    [2] +
+   +----------------------------------------------------------------------------+ */
+$rgb-dark-gray:    rgb(69,69,70);
+$rgb-gray:         rgb(109,109,111);
+$rgb-light-gray:   rgb(198,198,200);
+$rgb-dark-snow:    rgb(242,242,247);
+$rgb-dirty-snow:   rgb(249,249,252);
+$rgb-snow:         rgb(255,255,255);
+
+$rgb-aqua:         rgb(122,202,194);
+$rgb-light-blue:   rgb(111,186,208);
+$rgb-blue:         rgb(113,167,202);
+$rgb-dark-blue:    rgb(87,129,179);
+
+$rgb-red:          rgb(223,92,90);
+$rgb-yellow:       rgb(255,197,104);
+$rgb-orange:       rgb(241,144,84);
+$rgb-lime:         rgb(197,201,97);
+$rgb-purple:       rgb(186,142,196);
+/* +------------------------------------------------------------------------[2]-+ */
