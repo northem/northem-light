@@ -1,0 +1,19 @@
+{
+  "dark-gray": "lighten(#383839,5%);",
+  "gray": "lighten(#606062,5%);",
+  "light-gray": "lighten(#606062,40%);",
+  "dark-snow": "saturate(lighten(#2D2D2E,78%),25%);",
+  "dirty-snow": "saturate(lighten(#333334,78%),25%);",
+  "snow": "saturate(lighten(#383839,78%),25%);",
+
+  "aqua": "saturate(darken(#90CDC7,5%),5%);",
+  "light-blue": "saturate(darken(#86C1D2,5%),5%);",
+  "blue": "saturate(darken(#88B2CD,5%),5%);",
+  "dark-blue": "saturate(#5C81AE,4%);",
+
+  "red": "saturate(darken(#DF7574,5%),5%);",
+  "yellow": "saturate(darken(#FCCE85,5%),5%);",
+  "orange": "saturate(darken(#EFA070,5%),5%);",
+  "lime": "saturate(darken(#C8CB79,5%),5%);",
+  "purple": "saturate(darken(#C2A2C9,5%),5%);"
+}
