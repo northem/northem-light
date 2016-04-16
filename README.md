@@ -50,12 +50,12 @@ Visit the [official website](http://arcticicestudio.com/northem) for more inform
   - Gpick Palette `.gpa`
 
 ### Version
-[`-`](https://github.com/arcticicestudio/northem-light/releases/latest)  
+[`0.0.0`](https://github.com/arcticicestudio/northem-light/releases/latest)  
 
 For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem) or the [official website](http://arcticicestudio.com/northem).
 
 ### Changelog
-[`-`](CHANGELOG.md)
+[`0.0.0`](CHANGELOG.md)
 
 ### Development
 #### Workflow
