@@ -1,10 +1,10 @@
 {
   "id": "northem-light",
   "name": "Northem Light",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": {
    "created": "2015-03-13 19:24 UTC+0100",
-   "updated": "2016-04-16 14:48 UTC+0200"
+   "updated": "2016-05-06 07:49 UTC+0200"
   },
   "access": "public",
   "modularity": "core",
