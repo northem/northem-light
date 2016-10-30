@@ -1,0 +1,234 @@
+/*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+title      Northem Light                                    +
+project    northem-light                                    +
+version                                                     +
+repository https://github.com/arcticicestudio/northem-light +
+author     Arctic Ice Studio                                +
+email      development@arcticicestudio.com                  +
+copyright  Copyright (C) 2016                               +
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[References]
+KSS
+  (http://warpspire.com/kss)
+kss-node
+  (https://github.com/kss-node/kss-node)
+Northem
+  (https://github.com/arcticicestudio/northem)
+*/
+
+// A north-bluish, light color palette.
+// Created for the clean- and minimal flat design pattern to achieve a optimal focus and readability for code syntax
+// highlighting and UI.
+// It consists of a total of sixteen, carefully selected, dimmed pastel colors for a eye-comfortable, but yet colorful
+// ambiance.
+//
+// This project is a light, more color-intensive variation of the origin project "Northem".
+//
+// Styleguide Northem Light
+
+// Base component color of "Dark Water".
+//
+// Used for texts, backgrounds, carets and structuring characters like curly- and square brackets.
+//
+// The X11 color scheme name is "Bleached Cedar". 
+//
+// Markup:
+// <div style="background-color:#454546; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Dark Water
+@northem-light0: #454546;
+
+// Lighter shade color of the base component color.
+//
+// Used as a lighter background color for UI elements like status bars.
+//
+// The X11 color scheme name is "Dim Gray".
+//
+// Markup:
+// <div style="background-color:#6D6D6F; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Dark Water
+@northem-light1: #6D6D6F;
+
+// Lighter shade color of the base component color.
+//
+// Used as line highlighting in the editor.  
+// In the UI scope it may be used as selection- and hightlight color.
+//
+// The X11 color scheme name is "Silver".
+//
+// Markup:
+// <div style="background-color:#C6C6C8; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Dark Water
+@northem-light2: #C6C6C8;
+
+// Lighter shade color of the base component color.
+//
+// Used for comments, invisibles, indent- and wrap guide marker.  
+// In the UI scope used as pseudoclass color for disabled elements.
+//
+// The X11 color scheme name is "Athens Grey".
+//
+// Markup:
+// <div style="background-color:#E0E0E1; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Dark Water
+@northem-light3: #E0E0E1;
+
+// Base component color of "Light Wind".
+//
+// Main color for text, variables, constants and attributes.
+// In the UI scope used as semi-light background depending on the theme shading design.
+//
+// The X11 color scheme name is "Scarpa Flow".
+//
+// Markup:
+// <div style="background-color:#F2F2F7; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Light Wind
+@northem-light4: #F2F2F7;
+
+// Lighter shade color of the base component color.
+//
+// Used as a lighter background color for UI elements like status bars.  
+// Used as semi-light background depending on the theme shading design.
+//
+// The X11 color scheme name is "Blue Zodiac".
+//
+// Markup:
+// <div style="background-color:#F9F9FC; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Light Wind
+@northem-light5: #F9F9FC;
+
+// Lighter shade color of the base component color.
+//
+// Used for punctuations, carets and structuring characters like curly- and square brackets.  
+// In the UI scope used as background, selection- and hightlight color depending on the theme shading design.
+//
+// The X11 color scheme name is "White".
+//
+// Markup:
+// <div style="background-color:#FFFFFF; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Light Wind
+@northem-light6: #FFFFFF;
+
+// Bluish core color of the "Ice" component.
+//
+// Used for classes, types and documentation tags.
+//
+// The X11 color scheme name is "Tradewind".
+//
+// Markup:
+// <div style="background-color:#7ACAC2; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Ice
+@northem-light7: #7ACAC2;
+
+// Bluish core color.
+//
+// Represents the accent color of the color palette.  
+// Main color for primary UI elements and methods/functions.  
+//
+// Can be used for
+//   - Markup quotes
+//   - Markup link URLs
+//
+// The X11 color scheme name is "Seagull".
+//
+// Markup:
+// <div style="background-color:#6FBAD0; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Ice
+@northem-light8: #6FBAD0;
+
+// Bluish core color of the "Ice" component.
+//
+// Used for language-specific syntactic/reserved support characters and keywords, operators, tags, units and
+// punctuations like (semi)colons,commas and braces.
+//
+// The X11 color scheme name is "Shakespeare".
+//
+// Markup:
+// <div style="background-color:#71A7CA; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Ice
+@northem-light9: #71A7CA;
+
+// Bluish core color of the "Ice" component.
+//
+// Used for markup doctypes, import/include/require statements, pre-processor statements and at-rules (`@`).
+//
+// The X11 color scheme name is "Danube".
+//
+// Markup:
+// <div style="background-color:#5781B3; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Ice
+@northem-light10: #5781B3;
+
+// Colorful color of the "Rainbow" component.
+//
+// Used for errors, git/diff deletion and linter marker.
+//
+// The X11 color scheme name is "Valencia".
+//
+// Markup:
+// <div style="background-color:#DF5C5A; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Rainbow
+@northem-light11: #DF5C5A;
+
+// Colorful color of the "Rainbow" component.
+//
+// Used for annotations.
+//
+// The X11 color scheme name is "Flamenco".
+//
+// Markup:
+// <div style="background-color:#F19054; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Rainbow
+@northem-light12: #F19054;
+
+// Colorful color of the "Rainbow" component.
+//
+// Used for escape characters, regular expressions and markup entities.  
+// In the UI scope used for warnings and git/diff renamings.
+//
+// The X11 color scheme name is "Grandis".
+//
+// Markup:
+// <div style="background-color:#FFC568; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Rainbow
+@northem-light13: #FFC568;
+
+// Colorful color of the "Rainbow" component.
+//
+// Main color for strings and attribute values.  
+// In the UI scope used for git/diff additions and success visualizations.
+//
+// The X11 color scheme name is "Wild Willow".
+//
+// Markup:
+// <div style="background-color:#C5C961; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Rainbow
+@northem-light14: #C5C961;
+
+// Colorful color of the "Rainbow" component.
+//
+// Used for numbers.
+//
+// The X11 color scheme name is "Ce Soir".
+//
+// Markup:
+// <div style="background-color:#BA8EC4; width=60; height=60"></div>
+//
+// Styleguide Northem Light - Rainbow
+@northem-light15: #BA8EC4;
