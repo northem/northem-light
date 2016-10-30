@@ -1,7 +1,7 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # title      Circle CI Build Configuration                    +
 # project    northem-light                                    +
-# version    2.0.0                                            +
+# version    2.0.1                                            +
 # repository https://github.com/arcticicestudio/northem-light +
 # author     Arctic Ice Studio                                +
 # email      development@arcticicestudio.com                  +
@@ -21,4 +21,4 @@ dependencies:
 test:
   override:
     - gulp compile-css-template sassdoc
-    - find . -type d -regextype posix-egrep -regex ".*/build/(.*)" -exec cp {} $CIRCLE_ARTIFACTS \;
+    - find . -type d -regextype posix-egrep -regex ".*/build/(.*)" -exec cp -r {} $CIRCLE_ARTIFACTS \;
