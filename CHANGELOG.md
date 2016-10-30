@@ -4,7 +4,13 @@
 
 ---
 
-# 2.0.0 (2016-10-29)
+# 2.0.1 (2016-10-30)
+## Bug Fixes
+### Sass
+  - Fixed a compilation error caused by an malformed HEX code value of the `northem-light3` color variable during the Gulp task `compile-css-template` (@arcticicestudio, #10, 6c2ca65a7)
+  - Added a missing recursive flag to the `cp` command for Circle CI build artifact processing
+
+# 2.0.0 (2016-10-30)
 **The milestone [Version 2.0.0](https://github.com/arcticicestudio/northem-light/milestone/2) release!**
 
 The whole project has been rewritten and cleaned up to adapt to the new project setup like the [Nord](https://github.com/arcticicestudio/nord) project.
