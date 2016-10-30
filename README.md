@@ -1,111 +1,101 @@
-Northem Light
-=============
+<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-logo-banner.svg"/></p>
 
-![Northem Logo](src/main/assets/media/northem-logo.png)
+<p align="center"><img src="https://cdn.travis-ci.org/images/favicon-c566132d45ab1a9bcae64d8d90e4378a.svg" width=24 height=24/> <a href="https://travis-ci.org/arcticicestudio/northem-light"><img src="https://img.shields.io/travis/arcticicestudio/northem-light/develop.svg"/></a> <img src="https://circleci.com/favicon.ico" width=24 height=24/> <a href="https://circleci.com/gh/arcticicestudio/northem-light"><img src="https://circleci.com/gh/arcticicestudio/northem-light.svg?style=shield&circle-token=0552e1698e2c4fb79447a839fe3cc222c3d21e42"/></a> <img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/northem-light/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/northem-light.svg"/></a> <a href="https://github.com/arcticicestudio/northem-light/releases/latest"><img src="https://img.shields.io/badge/pre--release---_-blue.svg"/></a> <img src="https://www.npmjs.com/static/images/touch-icons/favicon-32x32.png" width=24 height=24/> <a href="https://www.npmjs.com/package/northem-light"><img src="https://img.shields.io/npm/v/northem-light.svg"/></a> <a href="https://www.npmjs.com/package/northem-light"><img src="https://img.shields.io/npm/dt/northem-light.svg"/></a> <a href="https://www.npmjs.com/package/northem-light"><img src="https://img.shields.io/npm/dm/northem-light.svg"/></a></p>
 
-### Description
-Northem is a north-bluish dark color palette designed by [Arctic Ice Studio](http://arcticicestudio.com).  
-Optimized for syntax highlighting and UI projects.  
-This is a light and more color-intensive variation of the [Northem](https://github.com/arcticicestudio/northem) color palette.
+<p align="center">A north-bluish, light color palette.</p>
 
-![Northem Light](src/main/native/northem-light.png)
+<p align="center">Created for the clean- and minimal flat design pattern to achieve a optimal focus and readability for code syntax highlighting and UI.
+It consists of a total of sixteen, carefully selected, dimmed pastel colors for a eye-comfortable, but yet colorful ambiance.</p>
 
-![Northem Light Syntax Preview](src/main/assets/media/northem-light-syntax-preview.png)
-
-### Variations
-  - [Northem](https://github.com/arcticicestudio/northem)
-  - [Northem Dark](https://github.com/arcticicestudio/northem-dark)
-
-### Projects
-Based on this the following projects are available:
-
-#### Syntax
-  - <a href="https://github.com/arcticicestudio/northem-light-intellij-idea-syntax"><img src="https://www.jetbrains.com/_assets/shared/favicons/jetbrains.ico" width=16 height=16/> Northem Light - IntelliJ IDEA Syntax</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-  - <a href="https://github.com/arcticicestudio/northem-light-atom-syntax"><img src="https://atom.io/favicon.ico" width=16 height=16/> Northem Light - Atom Syntax</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-  - <a href="https://github.com/arcticicestudio/northem-light-eclipse-syntax"><img src="http://www.eclipse.org/favicon.ico" width=16 height=16/> Northem Light - Eclipse Syntax</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-  - <a href="https://github.com/arcticicestudio/northem-light-gedit-syntax"><img src="https://static.gnome.org/wiki.gnome.org/gnome/css/favicon.png" width=16 height=16/> Northem Light - Gedit Syntax</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 />
-  - <a href="https://github.com/arcticicestudio/northem-light-notepadplusplus-syntax"><img src="https://notepad-plus-plus.org/favicon.ico" width=16 height=16/> Northem Light - Notepad++ Syntax</a> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-
-#### UI
-  - <a href="https://github.com/arcticicestudio/northem-light-atom-ui"><img src="https://atom.io/favicon.ico" width=16 height=16/> Northem Light - Atom UI</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-  - <a href="#"><img src="http://www.gtk.org/images/gtk-logo.ico" width=16 height=16/> Northem Light - GTK</a> (in drafting) <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 />
-
-#### Libraries
-**Java**  
-  - <a href="https://github.com/arcticicestudio/northem-light-java"><img src="https://java.com/favicon.ico" width=16 height=16 /> Northem Light - Java</a> <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16 /> <img src="https://developer.apple.com/favicon.ico" width=16 height=16 /> <img src="https://www.microsoft.com/en-us/windows/favicon.ico" width=16 height=16 />
-
-Visit the [official website](http://arcticicestudio.com/northem) for more information.
-
-### File Formats
-#### Non-Native
-  - [LESSCSS](http://lesscss.org) `.less`
-  - [Sass](http://sass-lang.com) `.scss`
-  - [JSON](http://json.org/) `.json`
-  - [XML](https://www.w3.org/XML) `.xml`
-
-#### Native
-  - GIMP/Inkscape Palette `.gpl`
-  - Adobe Swatch Exchange `.ase`
-  - Alias/WaveFront Material `.mtl`
-  - Gpick Palette `.gpa`
-
-### Version
-[`1.0.1`](https://github.com/arcticicestudio/northem-light/releases/latest)  
-
-For older versions check out the [GitHub Repository](https://github.com/arcticicestudio/northem) or the [official website](http://arcticicestudio.com/northem).
-
-### Changelog
-[`1.0.1`](CHANGELOG.md)
-
-### Development
-#### Workflow
-This project follows the [gitflow](http://nvie.com/posts/a-successful-git-branching-model) branching model.
-
-#### Specifications
-This project follows the [Arctic Versioning Specification (ArcVer)](https://github.com/arcticicestudio/arcver).
-
-### Dependencies
-#### Development
-  - [`northem@1.0.0`](https://github.com/arcticicestudio/northem)
-
-**Engines**
-  - [`git@2.8.*`](https://git-scm.com)
-
-**Specifications**  
-  - [`arcver@0.8.0`](https://github.com/arcticicestudio/arcver)
-
-**Skeletons**
-  - [`glacier-git@0.23.0`](https://github.com/arcticicestudio/glacier-git)
-
-### Recommendations
-#### Fonts
-##### Syntax
-This theme matches the Open Source font [Source Code Pro](https://typekit.com/fonts/source-code-pro).  
-Visit the [GitHub Repository](https://github.com/adobe-fonts/source-code-pro) for more information.
-
-##### UI
-This theme matches the Open Source font [Roboto](http://www.google.com/fonts/specimen/Roboto).  
-Visit the [GitHub Repository](https://github.com/google/fonts/tree/master/apache/roboto) for more information.
-
-### Contribution
-Please report issues/bugs, suggestions for improvements and feature requests to the [issuetracker](https://github.com/arcticicestudio/northem-light/issues).
-
-### Author
-The [Northem Light](https://github.com/arcticicestudio/northem-light) project is developed and authored by [Arctic Ice Studio](http://arcticicestudio.com).
-
-### Copyright
-<a href="mailto:development@arcticicestudio.com"><img src="http://arcticicestudio.com/favicon.ico" width=16 height=16 /> Copyright &copy; 2015-2016 Arctic Ice Studio</a>
-
-### License
-[![GPL-3.0](http://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl.txt) [![CC BY-SA-4.0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+<p align="center">This project is a light, more color-intensive variation of the origin project <a href="https://github.com/arcticicestudio/northem">Northem</a>.</p>
 
 ---
 
-### References
-  - [Northem](https://github.com/arcticicestudio/northem)
-  - [Sass](http://sass-lang.com)
-  - [LESSCSS](http://lesscss.org)
-  - [X Window System Documentation](http://www.x.org/releases/X11R7.7/doc)
-  - [Arctic Versioning Specification](http://specs.arcticicestudio.com/arcver) (ArcVer)
-  - [gitflow](http://nvie.com/posts/a-successful-git-branching-model)
-  - [Glacier - Git](https://github.com/arcticicestudio/glacier-git)
+The color palette it divided into four named components to represent the different color effects.
+
+![Northem Light Palette Overview](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-overview.svg)
+
+Northem Light colors are numbered from `northem-light0` to `northem-light15` where each component contains a different amount of colors:  
+  1. **Dark Water** `northem-light0` - `northem-light3`  
+  2. **Light Wind** `northem-light4` - `northem-light6`  
+  3. **Ice** `northem-light7` - `northem-light10`  
+  4. **Rainbow** `northem-light11` - `northem-light15`  
+
+This naming convention allows an uncomplicated use for terminals and preserves the compatibility to similar projects like [base16](http://chriskempson.com/projects/base16).
+
+## Usage
+To show a list of all available [Gulp][gulp] tasks run `gulp` or `gulp help`.
+
+### CSS
+The [CSS specification](https://www.w3.org/TR/css-variables) supports the usage of primitive value types to define custom properties which can be used to create e.g. color variables.  
+Northem provides the `template-css.scss` template file to compile a `northem-light.css` stylesheet.
+
+The generated file contains all Northem Light color variables prefixed with `--` inside the `:root` pseudo-class.  
+The `:root` pseudo-class represents an element that is the root of the document.  
+This is always the HTML (`<html>`) element which allows to use the Northem Light color variables for the whole document.
+
+The `northem-light.css` stylesheet can be compiled via [Gulp][gulp]:  
+```sh
+npm install
+gulp compile-css-template
+```
+
+### <img src="http://sass-lang.com/favicon.ico" width=16 height=16 /> Sass
+Copy the `northem-light.scss` file into your project and import it in your [Sass](http://sass-lang.com) files:
+```css
+@import "northem-light";
+```
+The `.scss` file extension is optional.
+
+#### <img src="http://sassdoc.com/favicon.png" width=16 height=16 /> SassDoc
+Northem Light Sass sources are documented using the [SassDoc](http://sassdoc.com) documentation syntax which can be compiled to a HTML documentation via [Gulp][gulp]:  
+```sh
+npm install
+gulp sassdoc
+```
+The Sassdoc theme can be changed by editing the `.sassdocrc` configuration file.
+
+### <img src="http://lesscss.org/public/ico/favicon.ico" width=16 height=16/> LESSCSS
+Copy the `northem-light.less` file into your project and import it in your [LESSCSS](http://lesscss.org) files:  
+```css
+@import "northem-light";
+```
+Information about how the `@import` statement handles imports with different file extensions can be found in the [official LESSCSS documentation](http://lesscss.org/features/#import-directives-feature).
+
+#### KSS
+Northem Light LESSCSS sources are documented using the [KSS](http://warpspire.com/kss) documentation syntax.  
+Information about the generation of a styleguide can be found in the [official KSS documentation](http://warpspire.com/kss/styleguides).
+
+### <img src="https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/icon-color-swatch.svg"/> Color Swatches
+Northem Light is available in various native formats:
+  - `.aco` Adobe Photoshop Palette
+  - `.ase` Adobe Swatch Exchange
+  - `.gpa` Gpick Palette
+  - `.gpl` GIMP/Inkscape/CinePaint/Krita Palette
+  - `.mtl` Alias/WaveFront Material
+
+A list of detailed information about each file format can be found [here](http://www.selapa.net/swatches/colors/fileformats.php).
+
+## Projects
+[![Northem Light Atom Syntax](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-atom-syntax-banner.svg)](https://atom.io/themes/northem-light-atom-syntax)  
+[![Northem Light Atom UI](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-atom-ui-banner.svg)](https://atom.io/themes/northem-light-atom-ui)  
+[![Northem Light Eclipse Syntax](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-eclipse-syntax-banner.svg)](https://github.com/arcticicestudio/northem-light-eclipse-syntax)  
+[![Northem Light IntelliJ IDEA Syntax](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-intellij-idea-syntax-banner.svg)](https://github.com/arcticicestudio/northem-light-intellij-idea-syntax)  
+[![Northem Light Java](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-java-banner.svg)](https://github.com/arcticicestudio/northem-light-java)  
+[![Northem Light Notepad++](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-notepadplusplus-banner.svg)](https://github.com/arcticicestudio/northem-light-notepadplusplus)  
+[![Northem Light Terminix](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-terminix-banner.svg)](https://github.com/arcticicestudio/northem-light-terminix)  
+[![Northem Light Vim](https://cdn.rawgit.com/arcticicestudio/northem-light/develop/src/assets/northem-light-vim-banner.svg)](https://github.com/arcticicestudio/northem-light-vim)  
+
+## Development
+[![](https://img.shields.io/badge/Changelog-2.0.0-blue.svg)](https://github.com/arcticicestudio/northem-light/blob/v2.0.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow_Branching_Model-blue.svg)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-blue.svg)](https://github.com/arcticicestudio/arcver)
+
+### Contribution
+Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/arcticicestudio/northem-light/issues).
+
+<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord/develop/src/assets/banner-footer-mountains.svg" /></p>
+
+<p align="center"> <img src="http://arcticicestudio.com/favicon.ico" width=16 height=16/> Copyright &copy; 2016 Arctic Ice Studio</p>
+
+<p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-blue.svg"/></a></p>
+
+[gulp]: http://gulpjs.com
